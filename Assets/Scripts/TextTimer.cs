@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TextTimer : MonoBehaviour
 {
-    public float time = 4; //Seconds to read the text
+    public float time = 4f;
 
     void Start()
     {
