@@ -1,6 +1,6 @@
 # Pemrograman Game Minggu Ke-6
 
-Ekspor dan Impor semua asset dari Minggu ke-3 sampe ke-6 terlebih dahulu
+Ekspor dan Impor semua asset dari Minggu ke-3 sampe ke-5 terlebih dahulu
 
 ## 1. Menambahkan Panorama pada halaman menu
 
