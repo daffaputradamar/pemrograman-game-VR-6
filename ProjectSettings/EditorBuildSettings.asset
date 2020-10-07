@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GameMenuScene.unity
+    guid: 4b650eee19dabec49913b3ff5c8b37af
+  - enabled: 1
+    path: Assets/Scenes/Minggu3Scene.unity
+    guid: 3afbd17b59485724d8332b999029a55d
+  - enabled: 1
+    path: Assets/Scenes/Minggu4Scene.unity
+    guid: 8607defdec1191d458f7ddeba7ccd7dd
+  - enabled: 1
+    path: Assets/Scenes/Minggu5Scene.unity
+    guid: 9c49d28ac819b8b4eb83ead1492a1f71
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 66820c1ba23130a479fd1c79267edace, type: 2}
